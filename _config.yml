@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                    : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+#theme                    : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -24,8 +24,8 @@ description              : "Adjunct Associate Research Scientist at Columbia Uni
 url                      : "https://rachel-cox.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rachel-cox/rachel-cox.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "vu.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/rachel.png" #path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Rachel Cox" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

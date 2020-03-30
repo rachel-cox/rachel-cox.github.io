@@ -1,7 +1,13 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /
+  - title: "About"
+    url: /about/   
   - title: "CV"
     url: /cv/
   - title: "Research"
     url: /research/
+  - title: "Lisman Lab"
+    url: /lisman/
+  - title: "Teaching"
+    url: /teaching/
