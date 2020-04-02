@@ -1,7 +1,8 @@
 ---
 layout: single
+permalink: /cv/
+title: "Curriculum Vitae Rachel L. Cox"
 ---
-## **Curriculum Vitae Rachel L. Cox**
 Adjunct Associate Research Scientist  
 Department of Ecology, Evolution and Environmental Biology (E3B)  
 Columbia University  

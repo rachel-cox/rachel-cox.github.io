@@ -1,10 +1,10 @@
 ---
 layout: single
+permalink: /lisman/
+title: "Lisman Lab"
 toc: true
 toc_sticky: true
 ---
-## **Lisman Lab**
-
 ![](/photos/toolik_2018.JPG)
 *Toolik Field Station, 2018*
 
