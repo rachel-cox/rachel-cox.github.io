@@ -3,7 +3,6 @@ layout: single
 permalink: /about/
 title: "About"
 ---
-
 I’m a science educator and director of science research at [Riverdale Country School](https://www.riverdale.edu/) in The Bronx and an Adjunct Associate Research Scientist in the [Department of Ecology, Evolution and Environmental Biology (E3B)](http://e3b.columbia.edu/faculty/rachel-cox/) at Columbia University in New York.
 
 I oversee the activities of the [Lisman Laboratory for Molecular Ecology at Riverdale Country School](https://www.riverdale.edu/2015/09/08/summer-science-research/) and advise students on [summer research activities and internships.](https://www.rockefeller.edu/outreach/lab-initiative/summer-science/highschoolapp/
