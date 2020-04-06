@@ -7,6 +7,12 @@
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fieldwork/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/funding/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>

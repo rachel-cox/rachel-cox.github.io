@@ -1,28 +1,30 @@
-I"¦
+I"
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/rachel.png" alt=""></a>
+          <a class="site-logo" href="/"><img src="/rachel2.png" alt=""></a>
         
         <a class="site-title" href="/">
           Rachel Cox
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">Home</a>
-            </li><li class="masthead__menu-item">
               <a href="/about/">About</a>
             </li><li class="masthead__menu-item">
               <a href="/cv/">CV</a>
             </li><li class="masthead__menu-item">
               <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">
+              <a href="/teaching/">Teaching</a>
+            </li><li class="masthead__menu-item">
               <a href="/lisman/">Lisman Lab</a>
             </li><li class="masthead__menu-item">
-              <a href="/teaching/">Teaching</a>
+              <a href="/fieldwork/">Fieldwork</a>
+            </li><li class="masthead__menu-item">
+              <a href="/funding/">Funding</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
