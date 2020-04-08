@@ -22,7 +22,8 @@ feature_row2:
   - image_path: /photos/teaching_at_toolik.JPG
     alt: "Teaching at Toolik"
     title: "Teaching"
-    excerpt: 'Teaching at Toolik Field Station'
+    excerpt: 'Teaching at [Toolik Field Station,](https://toolik.alaska.edu/) Alaska.
+'
     url: "/teaching/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -30,7 +31,7 @@ feature_row3:
   - image_path: /photos/2017.JPG
     alt: "Lisman Lab"
     title: "Lisman Lab"
-    excerpt: 'Lisman Lab'
+    excerpt: 'Lisman Laboratory for Molecular Ecology, Riverdale Country School, The Bronx.'
     url: "/lisman/"
     btn_label: "Read More"
     btn_class: "btn--primary"

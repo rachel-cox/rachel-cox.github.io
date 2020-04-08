@@ -33,6 +33,8 @@ rcox@riverdale.edu
 
 2008 to present **Director of Research,** Lisman Laboratory for Molecular Ecology, The Bronx, NY
 
+2012-2013 **Fellow, The Academy for Teachers,** New York, NY
+
 1/2008-5/2008, **Full-Time Science Faculty,** Upper School, Greenwich Academy, Greenwich, CT
 
 2005-2008, **Associate Research Scientist,** Systems Biology, Columbia University, New York, NY
