@@ -12,8 +12,10 @@ header:
     - label: "CV"
       url: "/cv/"
   caption: "Photo credit: [**Rachel Cox**](https://unsplash.com)"
-excerpt: "**Director of Science Research**--Riverdale Country School
-<br /> **Adjunct Associate Research Scientist**--*Department of Ecology, Evolution and Environmental Biology,* Columbia University <br />
+excerpt: "**Educator and Director of Science Research** <br />
+Riverdale Country School
+<br /> **Adjunct Associate Research Scientist** <br />
+*Department of Ecology, Evolution and Environmental Biology,* Columbia University <br />
 "
 
 intro:
@@ -31,7 +33,7 @@ feature_row3:
   - image_path: /photos/2017.JPG
     alt: "Lisman Lab"
     title: "Lisman Lab"
-    excerpt: 'Lisman Laboratory for Molecular Ecology, Riverdale Country School, The Bronx.'
+    excerpt: 'Lisman Laboratory for Molecular Ecology, Riverdale Country School, The Bronx'
     url: "/lisman/"
     btn_label: "Read More"
     btn_class: "btn--primary"
