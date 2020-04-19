@@ -15,7 +15,7 @@ I am specifically interested in the molecular basis of adaptive processes that a
 
 DeCarlo, L., Meckler, F., Hans, M.,  Kelemen, S., Magun, H., Noah, M., Pappajohn, L., Anderson, N., Berger, R., Berkel, J., Brooke, N., Chen, L., Chijioke, O., Connolly, R., Dewees, N., Falkner P., Forester, B., Frank, J., Holzman, W., Marino, V., Ravascheire, A. ,Wang, Y., Williams, A., Williams, Z., Gentile, D., and Cox, R.L. (2019) Molecular response to urban stress in an estuarine species: smooth cordgrass (*Sporobolus alterniflorus*). *Ecotoxicology and Environmental Safety,* in submission.
 
-Ravaschiere, A. Cutler, C. Edleson, K. Halem, Z. Magun, H. Meckler, F., Cox, R.L. (2017) [Quantification of heat shock protein 70 and acetylcholinesterase over a time course suggests environmental adaptation in a foundational molluscan species.](/pubs/Ravascheire_2017.pdf) *Ecotoxicology and Environmental Safety,* 142: 222-229.
+Ravaschiere, A. Cutler, C. Edleson, K. Halem, Z. Magun, H. Meckler, F., Cox, R.L. (2017) [Quantification of heat shock protein 70 and acetylcholinesterase over a time course suggests environmental adaptation in a foundational molluscan species.](/pubs/Ravaschiere_2017.pdf) *Ecotoxicology and Environmental Safety,* 142: 222-229.
 
 Halem, Z.M., Ross, D.J. and Cox, R.L. (2014) [Evidence for intraspecific endocrine disruption of *Geukensia demissa* (Atlantic ribbed mussel) in an urban watershed.](/pubs/Halem_2014.pdf) *Comparative Biochemistry and Physiology,* Part A 175: 1-6.
 
