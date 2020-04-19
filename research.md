@@ -13,33 +13,34 @@ I am specifically interested in the molecular basis of adaptive processes that a
 
 [ResearchGate profile](https://www.researchgate.net/profile/Rachel_Cox22)
 
-DeCarlo, L., Meckler, F., Hans, M.,  Kelemen, S., Magun, H., Noah, M., Pappajohn, L., Anderson, N., Berger, R., Berkel, J., Brooke, N., Chen, L., Chijioke, O., Connolly, R., Dewees, N., Falkner P., Forester, B., Frank, J., Holzman, W., Marino, V., Ravascheire, A. ,Wang, Y., Williams, A., Williams, Z., Gentile, D., and Cox, R.L. (2019) Molecular response to urban stress in an estuarine species: smooth cordgrass (Sporobolus alterniflorus). Ecotoxicology and Environmental Safety, in submission.
+DeCarlo, L., Meckler, F., Hans, M.,  Kelemen, S., Magun, H., Noah, M., Pappajohn, L., Anderson, N., Berger, R., Berkel, J., Brooke, N., Chen, L., Chijioke, O., Connolly, R., Dewees, N., Falkner P., Forester, B., Frank, J., Holzman, W., Marino, V., Ravascheire, A. ,Wang, Y., Williams, A., Williams, Z., Gentile, D., and Cox, R.L. (2019) Molecular response to urban stress in an estuarine species: smooth cordgrass (*Sporobolus alterniflorus*). *Ecotoxicology and Environmental Safety,* in submission.
 
-Ravaschiere, A. Cutler, C. Edleson, K. Halem, Z. Magun, H. Meckler, F., Cox, R.L. (2017) Quantification of heat shock protein 70 and acetylcholinesterase over a time course suggests environmental adaptation in a foundational molluscan species. Ecotoxicology and Environmental Safety, 142: 222-229.
+Ravaschiere, A. Cutler, C. Edleson, K. Halem, Z. Magun, H. Meckler, F., Cox, R.L. (2017) [Quantification of heat shock protein 70 and acetylcholinesterase over a time course suggests environmental adaptation in a foundational molluscan species.](Ravascheire_2017.pdf) *Ecotoxicology and Environmental Safety,* 142: 222-229.
 
-Halem, Z.M., Ross, D.J. and Cox, R.L. (2014) Evidence for intraspecific endocrine disruption of Geukensia demissa (Atlantic ribbed mussel) in an urban watershed. Comparative Biochemistry and Physiology, Part A 175: 1-6.
+Halem, Z.M., Ross, D.J. and Cox, R.L. (2014) [Evidence for intraspecific endocrine disruption of *Geukensia demissa* (Atlantic ribbed mussel) in an urban watershed.](Halem_2014.pdf) *Comparative Biochemistry and Physiology,* Part A 175: 1-6.
 
-Bisikirska, B., Adam, S.J., Alvarez, M.J., Rajbhandari, P., Cox, R.L., Lefebvre, C., Wang, K., Rieckhof, G.E., Flesher, D.W., Califano, A. (2012) STK38 is a Critical Upstream Regulator of MYC’s Oncogenic Activity in Human B-cell lymphoma. Oncogene (Nature Publishing Grp): 1-9.
+Bisikirska, B., Adam, S.J., Alvarez, M.J., Rajbhandari, P., Cox, R.L., Lefebvre, C., Wang, K., Rieckhof, G.E., Flesher, D.W., Califano, A. (2013) [STK38 is a Critical Upstream Regulator of MYC’s Oncogenic Activity in Human B-cell lymphoma.](/pubs/Bisikirska_2013.pdf) *Oncogene (Nature Publishing Grp):* 1-9.
 
-Cox, R.L. (2012) “Beyond the Genes”. The Riverdale Reader, Number III, Riverdale, NY
+Cox, R.L. (2012) [“Beyond the Genes”.](/pubs/Cox_2012.pdf) *The Riverdale Reader,* Number III, Riverdale, NY
 
-Muttray, A.F., Cox, R.L., Reinisch, C.L., Baldwin, S.A. (2007) Identification of Delta N Isoform and Polyadenylation Site Choice Variants in Molluscan p63/p73-like Homologues. Marine Biotechnology (NY) Mar-Apr 9 (2): 217-30. Epub 2007 Jan 22.
+Muttray, A.F., Cox, R.L., Reinisch, C.L., Baldwin, S.A. (2007) Identification of Delta N Isoform and Polyadenylation Site Choice Variants in Molluscan p63/p73-like Homologues. *Marine Biotechnology* (NY) Mar-Apr 9 (2): 217-30. Epub 2007 Jan 22.
 
-Muttray, A.F., Cox, R.L., St-Jean, S., van Poppelen, P. Reinisch, C.L. Baldwin, S.A. (2005) Identification and phylogenetic comparison of p53 in two distinct mussel species (Mytilus). Comparative Biochemistry and Physiology, Part C 140: 237-50.
-Cox, R.L., Stephens, R.E. and Reinisch, C.L. (2003) p63/p73 homologues in surf clam: novel signaling motifs and implications for control of expression. Gene 320 (C): 49-58.
+Muttray, A.F., Cox, R.L., St-Jean, S., van Poppelen, P. Reinisch, C.L. Baldwin, S.A. (2005) [Identification and phylogenetic comparison of p53 in two distinct mussel species (*Mytilus*).](/pubs/Muttray_2005.pdf) *Comparative Biochemistry and Physiology,* Part C 140: 237-50.
 
-McArthur A.G., Hegelund, T., Cox, R.L., Stegeman, J. J., Liljenberg, M., Olsson, U. Sundberg P., Celander M.C. (2003) Phylogenetic analysis of the cytochrome P450 3 (CYP3) gene family. J Molecular Evolution 57 (2): 200-11.
+Cox, R.L., Stephens, R.E. and Reinisch, C.L. (2003) [p63/p73 homologues in surf clam: novel signaling motifs and implications for control of expression.](/pubs/Cox_2003.pdf) *Gene 320 (C):* 49-58.
 
-Oleksiak, M.F., Wu, S., Parker, C. Qu, W., Cox, R.L., Zeldin, D.C., Stegeman, J.J. (2002) Identification and regulation of a new vertebrate cytochrome P450 subfamily, the CYP2Ps and functional characterization of CYP2P3, a conserved arachidonic acid epoxygenase/19 hydroxylase. Archives of Biochemistry and Biophysics 411 (2): 223-34.
+McArthur A.G., Hegelund, T., Cox, R.L., Stegeman, J. J., Liljenberg, M., Olsson, U. Sundberg P., Celander M.C. (2003) Phylogenetic analysis of the cytochrome P450 3 (CYP3) gene family. *J Molecular Evolution 57 (2):* 200-11.
 
-Cox, R.L., Mariano, T., Heck, D.E., Laskin, J.D., Stegeman, J.J. (2001) Nitric oxide synthase sequences in the marine fish Stenotomus chrysops and the sea urchin Arbacia punctulata, and phylogenetic analysis of nitric oxide synthase calmodulin binding domains. Comparative Biochemistry and Physiology, Part B 130: 479-91.
+Oleksiak, M.F., Wu, S., Parker, C. Qu, W., Cox, R.L., Zeldin, D.C., Stegeman, J.J. (2002) Identification and regulation of a new vertebrate cytochrome P450 subfamily, the CYP2Ps and functional characterization of CYP2P3, a conserved arachidonic acid epoxygenase/19 hydroxylase. *Archives of Biochemistry and Biophysics 411 (2):* 223-34.
+
+Cox, R.L., Mariano, T., Heck, D.E., Laskin, J.D., Stegeman, J.J. (2001) [Nitric oxide synthase sequences in the marine fish *Stenotomus chrysops* and the sea urchin *Arbacia punctulata,* and phylogenetic analysis of nitric oxide synthase calmodulin binding domains.](/pubs/Cox_2001.pdf) *Comparative Biochemistry and Physiology,* Part B 130: 479-91.
 
 Cox, R.L. (1999) Nitric oxide synthase in non-mammalian species: sequence identification and phylogenetic analysis. Doctoral dissertation, Boston University School of Medicine.
 
-Cox, R.L. and Stegeman, J.J. (1996) Characterization of nitric oxide synthase (NOS) in fish liver: enzyme activity and immunoblot analysis. In The Biology of Nitric Oxide, Part 5, S. Moncada, J. Stamler, S. Gross and E.A Higgs, Eds. Portland Press, London.
+Cox, R.L. and Stegeman, J.J. (1996) Characterization of nitric oxide synthase (NOS) in fish liver: enzyme activity and immunoblot analysis. *In The Biology of Nitric Oxide,* Part 5, S. Moncada, J. Stamler, S. Gross and E.A Higgs, Eds. Portland Press, London.
 
-Cox, R.L., Glick D.L., Strumwasser, F. (1991) Isolation and protein sequence identification of Aplysia californica lens crystallin. Biological Bulletin 181 (2): 333-335.
+Cox, R.L., Glick D.L., Strumwasser, F. (1991) Isolation and protein sequence identification of *Aplysia californica* lens crystallin. *Biological Bulletin 181 (2):* 333-335.
 
-Meilleur, B.A., Hunn, E.S. Cox, R.L. (1990) Lomatium dissectum (Apiaceae): Multi-purpose plant of the Pacific Northwest. Journal of Ethnobiology 10 (1): 1-22.
+Meilleur, B.A., Hunn, E.S. Cox, R.L. (1990) *Lomatium dissectum* (*Apiaceae*): Multi-purpose plant of the Pacific Northwest. *Journal of Ethnobiology 10 (1):* 1-22.
 
-Cox, R.L., Kuo, C.-C. Grayston J.T., Campbell, L.A. 1988. Deoxyribonucleic Acid Relatedness of Chlamydia sp. strain TWAR to Chlamydia trachomatis and Chlamydia psittaci. International Journal of Systematic Bacteriology 38 (3), 265-268.
+Cox, R.L., Kuo, C.-C. Grayston J.T., Campbell, L.A. 1988. Deoxyribonucleic Acid Relatedness of *Chlamydia* sp. strain TWAR to *Chlamydia trachomatis* and *Chlamydia psittaci. International Journal of Systematic Bacteriology 38 (3),* 265-268.
