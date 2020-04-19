@@ -15,4 +15,5 @@ toc_sticky: true
 [2013:]({% link /photos/2013.JPG %})  
 [2015:]({% link /photos/2015.JPG %})  
 [2017:]({% link /photos/2017.JPG %})  
-[2019:]({% link /photos/2019.JPG %})    
+[2018:]({% link /photos/2018.JPG %})    
+[2019:]({% link /photos/2019.JPG %})  
