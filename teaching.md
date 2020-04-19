@@ -12,7 +12,7 @@ Taking advantage of the urban forests on Riverdale’s Campus, Rachel Cox and Ro
 
 RCS students make it to the [preliminary round of NYCSEF, 2019](https://www.picuki.com/media/1988016055411154942)
 
-[Backpacking in the Brooks Range, Alaska 2018] as part of learning about ecology and exploration in the Arctic.(https://www.picuki.com/media/1814747285294615990)
+[Backpacking in the Brooks Range, Alaska 2018](https://www.picuki.com/media/1814747285294615990) as part of learning about ecology and exploration in the Arctic.
 
 ### Classes that I teach:
 
