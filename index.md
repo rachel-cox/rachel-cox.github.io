@@ -18,7 +18,7 @@ Riverdale Country School
 "
 
 intro:
-  - excerpt: 'I teach upper school science and research classes at Riverdale Country School and oversee research at the Lisman Laboratory for Molecular Ecology, housed in the Science Department at the school. I advise students on summer research activities and internships, and help to organize Riverdale’s Annual Student Science Symposium. I co-lead field work, outdoor leadership, and science conference trips.'
+  - excerpt: 'At Riverdale Country School, I teach upper school science and philosophy and I oversee research at the Lisman Laboratory for Molecular Ecology, housed in the Science Department at the school. I advise students on summer research activities and internships, and help to organize Riverdale’s Annual Student Science Symposium. I co-lead field work, outdoor leadership, and science conference trips. At Columbia University, I collaborate in the field and in the lab, with faculty and students from the Department of Ecology, Evolution and Environmental Biology.'
 feature_row2:
   - image_path: /photos/teaching_at_toolik.JPG
     alt: "Teaching at Toolik"

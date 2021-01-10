@@ -6,12 +6,13 @@ title: "Curriculum Vitae Rachel L. Cox"
 Adjunct Associate Research Scientist  
 Department of Ecology, Evolution and Environmental Biology (E3B)  
 Columbia University  
-New York, NY  
+New York, NY, USA
 
 Director of Science Research/Upper School Science Faculty  
-Riverdale Country School, Bronx NY, USA  
+Riverdale Country School
+The Bronx, NY, USA  
 
-rcox@riverdale.edu  
+<rcox@riverdale.edu>
 ## Education
 
   **Ph.D., 1999,** Physiology  
@@ -33,7 +34,7 @@ rcox@riverdale.edu
 
 2008 to present **Director of Research,** Lisman Laboratory for Molecular Ecology, The Bronx, NY
 
-2012-2013 **Fellow, The Academy for Teachers,** New York, NY
+2012-present **Fellow, The Academy for Teachers,** New York, NY
 
 1/2008-5/2008, **Full-Time Science Faculty,** Upper School, Greenwich Academy, Greenwich, CT
 
@@ -72,8 +73,6 @@ Science Research Student Internship Program: Organize, interview, place 15-20 st
 Mentor research students through writing abstracts and preparing for public presentation and competitions. Students participate in American Association Advancement of Sciences, New York Science and Engineering, Seimen’s Competition.
 
 Faculty Mentor and Grant Awardee, Urban Bar-Code Project (UBP): Assessing potential genetic diversification of G. demissa from the Bronx River - an environmentally impacted habitat.
-
-Faculty Collaborator: Riverdale Maker Space and Science Department.
 
 #### Advising:
 Faculty Advisor for juniors and seniors; Faculty Advisor and Mentor for Science Research.

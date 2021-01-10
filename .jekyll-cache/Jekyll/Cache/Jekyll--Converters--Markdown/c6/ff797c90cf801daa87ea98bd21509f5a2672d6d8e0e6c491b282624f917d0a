@@ -1,0 +1,192 @@
+I"¼
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>At Riverdale Country School, I teach upper school science and philosophy and I oversee research at the Lisman Laboratory for Molecular Ecology, housed in the Science Department at the school. I advise students on summer research activities and internships, and help to organize Riverdaleâ€™s Annual Student Science Symposium. I co-lead field work, outdoor leadership, and science conference trips. At Columbia University, I collaborate in the field and in the lab, with faculty and students from the Department of Ecology, Evolution and Environmental Biology.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/photos/teaching_at_toolik.JPG" alt="Teaching at Toolik" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Teaching</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Teaching at <a href="https://toolik.alaska.edu/">Toolik Field Station,</a> Alaska.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/teaching/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--right">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/photos/2017.JPG" alt="Lisman Lab" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Lisman Lab</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Lisman Laboratory for Molecular Ecology, Riverdale Country School, The Bronx</p>
+
+            </div>
+          
+
+          
+            <p><a href="/lisman/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/photos/brooks_range_2018.JPG/" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Fieldwork</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Centered with <code class="language-plaintext highlighter-rouge">type="center"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/fieldwork/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/photos/E3B-logo.png" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/photos/lisman_toolik_logo.png" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/photos/riverdale_logo.PNG" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET
