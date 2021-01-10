@@ -37,10 +37,10 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /photos/brooks_range_2018.JPG/
+  - image_path: /photos/BX_River_2010.jpeg
     alt: "placeholder image 2"
     title: "Fieldwork"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'Camping in the Brooks Range, 2018'
     url: "/fieldwork/"
     btn_label: "Read More"
     btn_class: "btn--primary"
