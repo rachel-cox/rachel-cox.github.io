@@ -15,4 +15,4 @@ Our research goals at the  Lisman Lab are to better understand molecular pathway
 
 
 <img align="left" width="180" height="180" src="/photos/toolik_logo.png">
-<img align="center" width="150" height="150" src="/photos/blackrockforestlogo.jpg">
+<img align="center" width="150" height="150" src="/photos/blackrockforestlogo.JPG">
