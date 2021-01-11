@@ -9,6 +9,10 @@ I trained in medical physiology for my PhD, and my graduate and post-doctoral re
 
 I am specifically interested in the molecular basis of adaptive processes that allow organisms to cope with various stressors such as urbanization and climate change. Research in my lab merges urban ecology and field biology with subcellular and molecular analysis. We are most interested in addressing the ways in which the epigenome controls adaptation and evolution. We collect empirical data based on novel model systems that include wild populations of molluscs and plants. I am especially interested in understanding how transient epigenetic changes can drive evolutionary change.
 
+Worked with educators from NYC independent schools to establish <img align="right" width="150" height="150" src="/photos/ICRT.PNG"> the Interschool Covid Research team where students and teachers have stepped up to research critical aspects of the 2020 SARS-Co-V2 pandemic.
+
+
+
 ## PUBLICATIONS
 
 [ResearchGate profile](https://www.researchgate.net/profile/Rachel_Cox22)

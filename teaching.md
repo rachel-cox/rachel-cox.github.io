@@ -10,7 +10,7 @@ Taking part with students in teaching experiential education at [ISSEEN workshop
 Taking advantage of the urban forests on Riverdale’s Campus, Rachel Cox and Ron Murison teach [a class on understanding the stories of trees.](https://www.picuki.com/media/2180854286220793995)
 
 
-RCS students make it to the [preliminary round of NYCSEF, 2019](https://www.picuki.com/media/1988016055411154942)
+RCS students make it to the [preliminary round of NYCSEF, 2019](/photos/IMG_1876.jpeg).
 
 [Backpacking in the Brooks Range, Alaska 2018](https://www.picuki.com/media/1814747285294615990) as part of learning about ecology and exploration in the Arctic.
 

@@ -23,7 +23,7 @@ feature_row2:
   - image_path: /photos/teaching_at_toolik.JPG
     alt: "Teaching at Toolik"
     title: "Teaching"
-    excerpt: 'Teaching at [Toolik Field Station,](https://toolik.alaska.edu/) Alaska.
+    excerpt: 'Teaching at [Toolik Field Station,](https://toolik.alaska.edu/) Alaska
 '
     url: "/teaching/"
     btn_label: "Read More"

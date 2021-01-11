@@ -5,17 +5,24 @@ title: "Lisman Lab"
 toc: true
 toc_sticky: true
 ---
-<img align="left" width="500" height="500" src="/photos/toolik_2018_border.jpg">
 For information about Lisman Laboratories, contact us at
 <LismanLab@riverdale.edu> or contact Rachel Cox, <rcox@riverdale.edu>.
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+![](/photos/toolik_2018_border.jpg)
 *Toolik Field Station, 2018*
+
+### Lisman Lab mentors:
+* Dr. Rachel Cox
+* Dr. Danny Gentile
+* Dr. Lindsey DeCarlo
+* Dr. Monica Murakami
+
+### Lisman Lab teaching interns
+* Henry Magun
+* Sara Kelemen
+* Zachary Halem
+* Andrew Ravascheire
+* Fred Meckler
+* Maddy Noah
 
 ### Group Photos by Year:  
 * [2009]({% link /photos/2009.JPG %})  
