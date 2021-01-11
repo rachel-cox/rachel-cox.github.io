@@ -5,9 +5,7 @@ title: "Lisman Lab"
 toc: true
 toc_sticky: true
 ---
-
 <img align="left" width="500" height="500" src="/photos/toolik_2018_border.jpg">
-
 For information about Lisman Laboratories, contact us at
 <LismanLab@riverdale.edu> or contact Rachel Cox, <rcox@riverdale.edu>.
 

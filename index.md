@@ -40,7 +40,7 @@ feature_row4:
   - image_path: /photos/BX_River_2010.jpeg
     alt: "placeholder image 2"
     title: "Fieldwork"
-    excerpt: 'Camping in the Brooks Range, 2018'
+    excerpt: 'Field collecting in Bronx River Estuary, 2010'
     url: "/fieldwork/"
     btn_label: "Read More"
     btn_class: "btn--primary"
