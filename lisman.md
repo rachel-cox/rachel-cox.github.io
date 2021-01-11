@@ -16,7 +16,7 @@ For information about Lisman Laboratories, contact us at
 * Dr. Lindsey DeCarlo
 * Dr. Monica Murakami
 
-### Lisman Lab teaching interns
+### Lisman Lab teaching interns:
 * Henry Magun
 * Sara Kelemen
 * Zachary Halem
